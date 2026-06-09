@@ -1,0 +1,6 @@
+# Copy this file to terraform.tfvars and fill in your values
+# Do NOT commit terraform.tfvars to git
+
+aws_region     = "us-east-1"
+db_password    = "ChangeMe123!"   # use a strong password
+s3_bucket_name = "my-app-assets-yourname-lab"  # must be globally unique

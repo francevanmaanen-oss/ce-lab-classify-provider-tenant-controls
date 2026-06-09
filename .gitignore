@@ -1,0 +1,7 @@
+# .gitignore
+terraform.tfvars
+*.tfstate
+*.tfstate.backup
+.terraform/
+responsibility-matrix.md
+security-inventory.md
